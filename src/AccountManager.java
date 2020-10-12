@@ -4,7 +4,7 @@
  * 
  * This program allows a user to create a username and password and stores the information in a Hashtable. 
  * Both username and password get checked against a regex. 
- * The program includes two usernames that have been pre-programmed to simulate a returning user. david@123", "Password99!" & "jnunez@fakemail.com", "12345678!Aa"
+ * The program includes two usernames that have been pre-programmed to simulate a returning user. "david@123", "Password99!" & "jnunez@fakemail.com", "12345678!Aa"
  * For demonstration purposes, after logging in the user has the option to see all the saved usernames and passwords. 
  */
 import java.util.Hashtable;
